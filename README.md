@@ -1,2 +1,2 @@
-# URL-shortener-like-adfly
- I am willing to replicate adf.ly using mainly PHP and MYSQL.
+# URL-shortener
+ Um simples encurtador de url em pho
