@@ -1,0 +1,4 @@
+ErrorDocument 401 http://www.abro.ga/401.php
+ErrorDocument 403 http://www.abro.ga/403.php
+ErrorDocument 404 http://www.abro.ga/404.php
+ErrorDocument 500 http://www.abro.ga/500.php
