@@ -1,2 +1,2 @@
 # URL-shortener
- Um simples encurtador de url em pho
+ Um simples encurtador de url em php
